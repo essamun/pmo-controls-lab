@@ -13,11 +13,11 @@
 
 This is a self-directed, end-to-end PMO controls environment built to demonstrate active, current portfolio governance capability — not a tutorial project.
 
-It mirrors the real PMO work I did at **CIBC** and **Markel Insurance** in Canada: intake governance, project controls, resource capacity planning, escalation management, and executive reporting — built from first principles and documented as a fully navigable portfolio artefact.
+It mirrors the real PMO work I did at **CIBC** and **Markel Insurance** in Canada: intake governance, project controls, resource capacity planning, escalation management, and executive reporting - built from first principles and documented as a fully navigable portfolio artefact.
 
 **Fictional organization:** Northgate Financial Group (NFG) — a mid-size Canadian financial institution  
 **Portfolio:** 10 concurrent projects across IT, Compliance, Digital, and Infrastructure  
-**Report anchor date:** February 28, 2026 (fixed — see [Why the Date is Fixed](#why-the-date-is-fixed))
+**Report anchor date:** February 28, 2026 (fixed - see [Why the Date is Fixed](#why-the-date-is-fixed))
 
 > Full working files (Excel register with formulas, Power BI `.pbix` dashboard) are available upon request for interview or assessment purposes.
 
